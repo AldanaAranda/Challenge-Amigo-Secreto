@@ -22,7 +22,7 @@ Para probar y ejecutar este proyecto localmente, sigue estos pasos:
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   [git clone <URL del repositorio>](https://github.com/AldanaAranda/Challenge-Amigo-Secreto.git)
+   git clone https://github.com/AldanaAranda/Challenge-Amigo-Secreto.git
    
 2. Abre el archivo index.html en tu navegador web 🌍
 
